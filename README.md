@@ -14,6 +14,8 @@ I am currently improving my skills on development by flutter.
 * Flutter/Dart
 * Project/Program management
 
+* I am actually thinking of progressing to AR in flutter
+
 - 💞️ I’m looking to collaborate on outstanding projects with my current company and outstanding Tech companies.
 
 - 📫 How to reach me will be through my 
